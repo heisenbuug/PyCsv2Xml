@@ -1,0 +1,17 @@
+<root>
+  <prod>
+    <CatOne>ProdOne</CatOne>
+    <CatTwo>ProdTwo</CatTwo>
+    <CatThree>ProdThree</CatThree>
+  </prod>
+  <prod>
+    <CatOne>ProductOne</CatOne>
+    <CatTwo>ProductTwo</CatTwo>
+    <CatThree>ProductThree</CatThree>
+  </prod>
+  <prod>
+    <CatOne>NewProdOne</CatOne>
+    <CatTwo>NewProdTwo</CatTwo>
+    <CatThree>NewProdThree</CatThree>
+  </prod>
+</root>
