@@ -1,4 +1,9 @@
 PyCsv2Xml
 =========
 
-Conver CSV to XML using Python
+Convert CSV to XML using Python
+
+
+This script can be used to transform a CSV into an Xml file.
+It is decoded as UTF-8.
+
